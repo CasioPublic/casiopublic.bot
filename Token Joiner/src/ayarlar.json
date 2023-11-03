@@ -1,0 +1,7 @@
+{
+    "captcha_service": "capmonster/2captcha",
+    "captcha_api_key": "",
+    "inviteCode": "",
+    "joinDelay": 1000, 
+    "useProxies": false
+}
